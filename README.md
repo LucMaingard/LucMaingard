@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LucMaingard
 - 👀 I’m interested in data and how it can bring real value to business. Particularly through leveraging the power of production ML systems.
-- 🌱 I’m currently developing my skills in MLOps. Specifically, modeling, data engineering, deployment, and project management. 
+- 🌱 I’m currently developing my skills in MLOps. Specifically, modeling, data engineering, deployment, project management and graph neural nets. 
 - 💞️ I’m looking to collaborate on interesting and challenging ML projects.
 - 📫 How to reach me: 
 - email: luc.ma7154@gmail.com
